@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tercatat</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="harga">Harga</string>
+</resources>
